@@ -1,2 +1,3 @@
 # first-Repo
-This is my first repository
+This is my first repository<br>
+Auhtor Ayush Seth
